@@ -1,2 +1,2 @@
-6d1cfc03-618d-4b14-9092-04db6bbfac4b chunk=50MiB encryption=none externaltype=rclone name=gdrive-bonsai-data prefix=projects/bonsai/data rclone_layout=lower target=gd-sig type=external timestamp=1603189051.990628s
+6d1cfc03-618d-4b14-9092-04db6bbfac4b chunk=50MiB encryption=none externaltype=rclone name=gdrive-bonsai-data prefix=projects/bonsai/data rclone_layout=lower target=gd-sig type=external timestamp=1603200265.204791s
 cad8915e-6128-46d0-ace7-1eb87e4ac921 chunk=50MiB encryption=none externaltype=rclone name=gdrive-bonsai-git-annex prefix=git-annex/bonsai/data rclone_layout=lower target=gd-sig type=external timestamp=1603189614.994859s
