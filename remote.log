@@ -1,0 +1,1 @@
+6d1cfc03-618d-4b14-9092-04db6bbfac4b chunk=50MiB encryption=none externaltype=rclone name=gdrive-bonsai-data prefix=projects/bonsai/data rclone_layout=lower target=gd-sig type=external timestamp=1603189051.990628s
